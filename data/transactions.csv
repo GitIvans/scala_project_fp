@@ -1,0 +1,31 @@
+date,type,category,amount,comment
+2025-12-01,income,Salary,1200,paycheck
+2025-12-02,expense,Food,12.50,coffee
+2025-12-02,expense,Transport,2.00,bus
+2025-12-03,expense,Food,35.70,grocery
+2025-12-03,expense,Entertainment,15.99,streaming
+2025-12-04,expense,Utilities,48.30,electricity
+2025-12-05,expense,Food,24.10,lunch
+2025-12-06,expense,Health,9.50,pharmacy
+2025-12-07,expense,Games,59.99,steam purchase
+2025-12-08,expense,Transport,18.00,taxi
+2025-12-09,income,Freelance,250,small gig
+2025-12-10,expense,Food,78.40,weekly grocery
+2025-12-11,expense,Rent,260,shared rent
+2025-12-12,expense,Education,19.99,course
+2025-12-13,expense,Utilities,22.10,internet
+2025-12-14,expense,Entertainment,8.50,movie
+2025-12-15,expense,Food,16.20,snacks
+2025-12-16,expense,Other,12.00,random
+2025-12-17,expense,Transport,3.00,metro
+2025-12-18,expense,Food,41.80,dinner
+2025-12-19,expense,Health,25.00,doctor visit
+2025-12-20,expense,Entertainment,6.99,music
+2025-12-21,expense,Utilities,15.00,phone
+2025-12-22,expense,Food,22.60,breakfast
+2025-12-23,expense,Other,9.90,gift
+2025-12-24,expense,Food,33.30,home meal
+2025-12-25,expense,Entertainment,12.00,cinema
+2025-12-26,expense,Food,29.40,cafe
+2025-12-27,expense,Transport,4.20,bus
+2025-12-28,expense,Food,55.00,holiday grocery
